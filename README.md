@@ -16,15 +16,11 @@ This is getting a tethered conncetion between a Android device and a Raspberry P
   
   https://docs.google.com/document/d/1_tpV8_51b0FThs_WZI4Yf1mww-Cz8ELb1e86o74oDCA/edit
 
-### Repository:
-
-  https://github.com/zeivhann/piiper
+### Repository: https://github.com/zeivhann/piiper
 
 ## BlueTooth Tethering WIP
 This is getting a tethered conncetion between a Android device and a Raspberry Pi over Bluetooth in order to send over different scripts and instructions to the Raspberry Pi.
 
 ### Info:
 
-### Repository: 
-
-  https://github.com/Yurockkk/Bluetooth-RPi
+### Repository: https://github.com/Yurockkk/Bluetooth-RPi
