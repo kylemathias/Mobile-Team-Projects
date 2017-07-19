@@ -8,7 +8,7 @@ SD card imaging software for android. Getting NOOBs mountied with an android dev
 ### Repository: https://github.com/kylemathias/SDCardBuilder
 
 ## USB Tethering WIP
-This is getting a tethered conncetion between a Android device and a Raspberry Pi over USB in order to send over diffrent scripts and instructions to the Raspberry Pi.
+This is getting a tethered conncetion between a Android device and a Raspberry Pi over USB in order to send over different scripts and instructions to the Raspberry Pi.
 
 ### Info: 
 
@@ -21,7 +21,7 @@ This is getting a tethered conncetion between a Android device and a Raspberry P
   https://github.com/zeivhann/piiper
 
 ## BlueTooth Tethering WIP
-This is getting a tethered conncetion between a Android device and a Raspberry Pi over Bluetooth in order to send over diffrent scripts and instructions to the Raspberry Pi.
+This is getting a tethered conncetion between a Android device and a Raspberry Pi over Bluetooth in order to send over different scripts and instructions to the Raspberry Pi.
 
 ### Info:
 
