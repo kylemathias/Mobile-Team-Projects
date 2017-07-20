@@ -23,4 +23,6 @@ This is getting a tethered conncetion between a Android device and a Raspberry P
 
 ### Info:
 
+  [Bluetooth] [Automate the Process of Getting RPi’s Terminal Access from Android Device](https://docs.google.com/document/d/1x_HNuHDNBnZj_1SVIXS2bfPZnRBI3lDthm0phlhwshI/edit?usp=sharing)
+
 ### Repository: https://github.com/Yurockkk/Bluetooth-RPi
